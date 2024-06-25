@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar os investimentos de marketing de uma empresa em três meios de comunicação: YouTube, Facebook e Jornal. A análise busca determinar se a empresa está obtendo retornos lucrativos e quais são os melhores investimentos. No final, um modelo de regressão é treinado para identificar os possíveis retornos para diferentes variáveis de investimento.
+Este projeto tem como objetivo analisar os investimentos de marketing de uma empresa fictícias em três meios de comunicação: YouTube, Facebook e Jornal. A análise busca determinar se a empresa está obtendo retornos lucrativos e quais são os melhores investimentos. No final, um modelo de regressão é treinado para identificar os possíveis retornos para diferentes variáveis de investimento.
 
 ## Estrutura do Projeto
 
