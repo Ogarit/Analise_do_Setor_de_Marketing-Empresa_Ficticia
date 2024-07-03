@@ -41,6 +41,3 @@ Este projeto tem como objetivo analisar os investimentos de marketing de uma emp
 * **DecisionTreeRegressor**: RMSE de 1.2274
 * **XGBRegressor**: RMSE de 0.8777 (antes da otimização)
 * **XGBRegressor Otimizado**: RMSE de 0.8394
-
-## Autores
-* Tiago Marques Lima
