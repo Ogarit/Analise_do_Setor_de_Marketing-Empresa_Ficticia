@@ -57,7 +57,7 @@ A análise dos dados de marketing revelou os seguintes pontos principais:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/usuario/Analise_do_Setor_de_Marketing-Empresa_Ficticia.git
+   git clone https://github.com/Ogarit/Analise_do_Setor_de_Marketing-Empresa_Ficticia.git
 2. **Instale as dependências**:
    - Se você estiver utilizando um ambiente virtual, crie e ative-o.
    - Instale as dependências utilizando o requirements.txt:
